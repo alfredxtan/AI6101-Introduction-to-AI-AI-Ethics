@@ -1,0 +1,1 @@
+This repository contains the codes and report to one of the indiviudal assignments. It involves a simple RL algorithm, called Q-learning, to traing an agent to navigate through a simulated world, while achieving the objective of pushing a box to an end-goal.
